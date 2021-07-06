@@ -1,0 +1,16 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://KhawarAbbasi.github.io/music-player",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
